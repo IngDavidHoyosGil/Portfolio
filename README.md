@@ -16,7 +16,6 @@
 * Curso de pensamiento lógico: Manejo de datos, estructuras y funciones.
 * Desafíos de pensamiento lógico.
 * Curso de introducción a la web: Historia y funcionamiento de internet.
-* Curso de configuración de entorno de desarrollo en windows.
 
 ## 📈 GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IngDavidHoyosGil&show_icons=true&theme=tokyonight)
