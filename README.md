@@ -5,10 +5,10 @@
 > "Here you can see my progress, feel free to review these folders."
 
 ## 📋 Current Projects
-- [ ] Curso profesional de Git y Github.
 - [ ] Curso de programación básica.
 
 ## 👍 Achieved Goals
+* Curso profesional de Git y Github.
 * Curso de configuración de entorno de desarrollo en windows.
 * Curso básico de computadoras e informática.
 * Curso de pensamiento lógico: algoritmos y diagrama de flujo.
