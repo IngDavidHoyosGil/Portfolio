@@ -6,7 +6,7 @@
 
 ## 📋 Current Projects
 - [ ] Curso profesional de Git y Github.
-- [ ] Curso de programación.
+- [ ] Curso de programación básica.
 
 ## 👍 Achieved Goals
 * Curso de configuración de entorno de desarrollo en windows.
