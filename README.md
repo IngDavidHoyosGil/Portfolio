@@ -1,6 +1,6 @@
 <h2 align="center">Hello! This is my Portfolio made from Windows 👋.</h2>
 
-<h2 align="center">I'm an electronic engineer graduated in 2022 💻, and a passionate software developer!</h2>
+<h2 align="center">I'm an Electronic Engineer graduated in 2022 💻, and a passionate Software Developer!</h2>
 
 > "Here you can see my progress, feel free to review these folders."
 
