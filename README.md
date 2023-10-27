@@ -6,9 +6,10 @@
 
 ## 📋 Current Projects
 - [ ] Curso de programación básica.
-- [ ] Curso de los paradigmas en la historia de la programación.
+- [ ] Curso de Historia de la Innovación y el Emprendimiento con Diana Uribe
 
 ## 👍 Achieved Goals
+* Curso de los paradigmas en la historia de la programación.
 * Curso profesional de Git y Github.
 * Curso de configuración de entorno de desarrollo en Windows.
 * Curso básico de computadoras e informática.
