@@ -6,10 +6,11 @@
 
 ## 📋 Current Projects
 - [ ] Curso de programación básica.
-- [ ] Fundamentos de Ingeniería de Software
+- [ ] Curso de Tecnología para Gerentes y Directores.
 
 ## 👍 Achieved Goals
-* Curso de Historia de la Innovación y el Emprendimiento con Diana Uribe
+* Fundamentos de Ingeniería de Software.
+* Curso de Historia de la Innovación y el Emprendimiento con Diana Uribe.
 * Curso de los paradigmas en la historia de la programación.
 * Curso profesional de Git y Github.
 * Curso de configuración de entorno de desarrollo en Windows.
