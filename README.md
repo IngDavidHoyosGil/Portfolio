@@ -6,11 +6,12 @@
 
 ## 📋 Current Projects
 - [ ] Curso de programación básica.
-- [ ] Curso de Tecnología para Gerentes y Directores.
+- [ ] Curso de Redes Informáticas de Internet
 
 ## 👍 Achieved Goals
+
+**Fundamentals**
 * Fundamentos de Ingeniería de Software.
-* Curso de Historia de la Innovación y el Emprendimiento con Diana Uribe.
 * Curso de los paradigmas en la historia de la programación.
 * Curso profesional de Git y Github.
 * Curso de configuración de entorno de desarrollo en Windows.
@@ -20,6 +21,10 @@
 * Curso de pensamiento lógico: Manejo de datos, estructuras y funciones.
 * Desafíos de pensamiento lógico.
 * Curso de introducción a la web: Historia y funcionamiento de internet.
+
+**Business**
+* Curso de Tecnología para Gerentes y Directores.
+* Curso de Historia de la Innovación y el Emprendimiento con Diana Uribe.
 
 ## 📈 GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IngDavidHoyosGil&show_icons=true&theme=tokyonight)
