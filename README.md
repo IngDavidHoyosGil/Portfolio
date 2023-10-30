@@ -6,8 +6,7 @@
 
 ## 📋 Current Projects
 - [ ] Curso de programación básica.
-- [ ] Curso de Redes Informáticas de Internet
-
+      
 ## 👍 Achieved Goals
 
 **Fundamentals**
@@ -21,6 +20,7 @@
 * Curso de pensamiento lógico: Manejo de datos, estructuras y funciones.
 * Desafíos de pensamiento lógico.
 * Curso de introducción a la web: Historia y funcionamiento de internet.
+* Curso de Redes Informáticas de Internet.
 
 **Business**
 * Curso de Tecnología para Gerentes y Directores.
