@@ -27,6 +27,7 @@
 * Curso de Historia de la Innovación y el Emprendimiento con Diana Uribe.
 * Curso de Slack para Mejorar tu Comunicación Online.
 * Curso de Trello.
+* Curso de Trabajo Remoto para Gestionar el Cambio Organizacional.
 
 ## 📈 GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IngDavidHoyosGil&show_icons=true&theme=tokyonight)
