@@ -50,21 +50,25 @@ let victoriasEnemigo = 0
 let vidasJugador = 3
 let vidasEnemigo = 3
 
+let tipoJugador
+let tipoEnemigo
+
 class Mokepon {
-    constructor(nombre, foto, vida) {
+    constructor(nombre, foto, vida, tipo) {
         this.nombre = nombre
         this.foto = foto
         this.vida = vida
         this.ataques = []
+        this.tipo = tipo
     }
 }
 
-let hipodoge = new Mokepon('Hipodoge', './assets/mokepons_mokepon_hipodoge_attack.png', 5)
-let capipepo = new Mokepon('Capipepo', './assets/mokepons_mokepon_capipepo_attack.png', 5)
-let ratigueya = new Mokepon('Ratigueya', './assets/mokepons_mokepon_ratigueya_attack.png', 5)
-let langostelvis = new Mokepon('Langostelvis', './assets/mokepons_mokepon_langostelvis_attack.png', 5)
-let tucapalma = new Mokepon('Tucapalma', './assets/mokepons_mokepon_tucapalma_attack.png', 5)
-let pydos = new Mokepon('Pydos', './assets/mokepons_mokepon_pydos_attack.png', 5)
+let hipodoge = new Mokepon('Hipodoge', './assets/mokepons_mokepon_hipodoge_attack.png', 5, '💧')
+let capipepo = new Mokepon('Capipepo', './assets/mokepons_mokepon_capipepo_attack.png', 5, '🌱')
+let ratigueya = new Mokepon('Ratigueya', './assets/mokepons_mokepon_ratigueya_attack.png', 5, '🔥')
+let langostelvis = new Mokepon('Langostelvis', './assets/mokepons_mokepon_langostelvis_attack.png', 5, '💧')
+let tucapalma = new Mokepon('Tucapalma', './assets/mokepons_mokepon_tucapalma_attack.png', 5, '🌱')
+let pydos = new Mokepon('Pydos', './assets/mokepons_mokepon_pydos_attack.png', 5, '🔥')
 
 
 hipodoge.ataques.push(
@@ -152,7 +156,6 @@ function seleccionarMascotaJugador() {
 
     if(inputHipodoge.checked) {
         spanMascotaJugador.innerHTML = inputHipodoge.id 
-        mascotaJugador = inputHipodoge.id 
     } else if(inputCapipepo.checked) {
         spanMascotaJugador.innerHTML = inputCapipepo.id
         mascotaJugador = inputCapipepo.id 
@@ -170,6 +173,7 @@ function seleccionarMascotaJugador() {
         mascotaJugador = inputPydos.id 
     } else {
         alert('Debes seleccionar a una mascota')
+        location.reload()
     }
 
     extraerAtaques(mascotaJugador)    
@@ -182,6 +186,7 @@ function extraerAtaques(mascotaJugador) {
     for (let i = 0; i < mokepones.length; i++) {
         if (mascotaJugador === mokepones[i].nombre) {
             ataques = mokepones[i].ataques
+            tipoJugador = mokepones[i].tipo
         }
     }
     mostrarAtaques(ataques)
@@ -232,6 +237,28 @@ function seleccionarMascotaEnemigo() {
 
     spanMascotaEnemigo.innerHTML = mokepones[mascotaAleatoria].nombre
     ataquesMokeponEnemigo = mokepones[mascotaAleatoria].ataques
+
+    tipoEnemigo = mokepones[mascotaAleatoria].tipo
+
+    if(tipoJugador == '💧' && tipoEnemigo == '🔥') {
+        sectionMensajes.innerHTML = "Tienes ventaja!"
+        victoriasJugador++
+    } else if(tipoJugador == '🌱' && tipoEnemigo == '💧') {
+        sectionMensajes.innerHTML = "Tienes ventaja!"
+        victoriasJugador++
+    } else if(tipoJugador == '🔥' && tipoEnemigo == '🌱') {
+        sectionMensajes.innerHTML = "Tienes ventaja!"
+        victoriasJugador++
+    } else if(tipoJugador == '🔥' && tipoEnemigo == '💧') {
+        sectionMensajes.innerHTML = "Estas en desventaja!"
+        victoriasEnemigo++
+    } else if(tipoJugador == '💧' && tipoEnemigo == '🌱') {
+        sectionMensajes.innerHTML = "Estas en desventaja!"
+        victoriasEnemigo++
+    } else if(tipoJugador == '🌱' && tipoEnemigo == '🔥') {
+        sectionMensajes.innerHTML = "Estas en desventaja!"
+        victoriasEnemigo++
+    }
 
     secuenciaAtaque()
 }
