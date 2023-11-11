@@ -63,6 +63,8 @@ let intervalo
 let mapaBackground = new Image()
 mapaBackground.src = './assets/mokemap.png'
 
+let ataquesUsadosDelEnemigo = new Set()
+
 class Mokepon {
     constructor(nombre, foto, vida, tipo, fotoMapa, x = 10, y = 10) {
         this.nombre = nombre
@@ -154,6 +156,54 @@ pydos.ataques.push(
     {nombre: '🔥', id: 'boton-fuego'},
 )
 
+hipodogeEnemigo.ataques.push(
+    {nombre: '💧', id: 'boton-agua'},
+    {nombre: '💧', id: 'boton-agua'},
+    {nombre: '💧', id: 'boton-agua'},
+    {nombre: '🔥', id: 'boton-fuego'},
+    {nombre: '🌱', id: 'boton-tierra'},
+)
+
+capipepoEnemigo.ataques.push(
+    {nombre: '🌱', id: 'boton-tierra'},
+    {nombre: '🌱', id: 'boton-tierra'},
+    {nombre: '🌱', id: 'boton-tierra'},
+    {nombre: '💧', id: 'boton-agua'},
+    {nombre: '🔥', id: 'boton-fuego'},
+)
+
+ratigueyaEnemigo.ataques.push(
+    {nombre: '🔥', id: 'boton-fuego'},
+    {nombre: '🔥', id: 'boton-fuego'},
+    {nombre: '🔥', id: 'boton-fuego'},
+    {nombre: '💧', id: 'boton-agua'},
+    {nombre: '🌱', id: 'boton-tierra'},
+)
+
+langostelvisEnemigo.ataques.push(
+    {nombre: '🔥', id: 'boton-fuego'},
+    {nombre: '🔥', id: 'boton-fuego'},
+    {nombre: '💧', id: 'boton-agua'},
+    {nombre: '💧', id: 'boton-agua'},
+    {nombre: '🌱', id: 'boton-tierra'},
+)
+
+tucapalmaEnemigo.ataques.push(
+    {nombre: '🌱', id: 'boton-tierra'},
+    {nombre: '🌱', id: 'boton-tierra'},
+    {nombre: '🔥', id: 'boton-fuego'},
+    {nombre: '🔥', id: 'boton-fuego'},
+    {nombre: '💧', id: 'boton-agua'},
+)
+
+pydosEnemigo.ataques.push(
+    {nombre: '💧', id: 'boton-agua'},
+    {nombre: '💧', id: 'boton-agua'},
+    {nombre: '🌱', id: 'boton-tierra'},
+    {nombre: '🌱', id: 'boton-tierra'},
+    {nombre: '🔥', id: 'boton-fuego'},
+)
+
 mokepones.push(hipodoge, capipepo, ratigueya, langostelvis, tucapalma, pydos)
 
 
@@ -187,8 +237,6 @@ function IniciarJuego() {
 
 function seleccionarMascotaJugador() {
 
-    // sectionSeleccionarAtaque.style.display = 'flex'
-
     if(inputHipodoge.checked) {
         spanMascotaJugador.innerHTML = inputHipodoge.id 
         mascotaJugador = inputHipodoge.id
@@ -218,8 +266,6 @@ function seleccionarMascotaJugador() {
 
     sectionVerMapa.style.display = 'flex'
     iniciarMapa()
-
-    seleccionarMascotaEnemigo()
 }
 
 function extraerAtaques(mascotaJugador) {
@@ -274,13 +320,11 @@ function secuenciaAtaque() {
     })
 }
 
-function seleccionarMascotaEnemigo() {
-    let mascotaAleatoria = aleatorio(0, mokepones.length - 1)
+function seleccionarMascotaEnemigo(enemigo) {
+    spanMascotaEnemigo.innerHTML = enemigo.nombre
+    ataquesMokeponEnemigo = enemigo.ataques
 
-    spanMascotaEnemigo.innerHTML = mokepones[mascotaAleatoria].nombre
-    ataquesMokeponEnemigo = mokepones[mascotaAleatoria].ataques
-
-    tipoEnemigo = mokepones[mascotaAleatoria].tipo
+    tipoEnemigo = enemigo.tipo
 
     if(tipoJugador == '💧' && tipoEnemigo == '🔥') {
         sectionMensajes.innerHTML = "Tienes ventaja!"
@@ -306,8 +350,16 @@ function seleccionarMascotaEnemigo() {
 }
 
 function ataqueAleatorioEnemigo() {
-    let ataqueAleatorio =  aleatorio(0, ataquesMokeponEnemigo.length - 1)
+    console.log('Ataques enemigo ', ataquesMokeponEnemigo )
+
+    let ataqueAleatorio
     let tipoAtaque
+
+    do {
+        ataqueAleatorio = aleatorio(0, ataquesMokeponEnemigo.length - 1)
+    } while (ataquesUsadosDelEnemigo.has(ataqueAleatorio));
+
+    ataquesUsadosDelEnemigo.add(ataqueAleatorio)
 
     tipoAtaque = ataquesMokeponEnemigo[ataqueAleatorio].nombre
 
@@ -518,7 +570,11 @@ function revisarColision(enemigo) {
     }
 
     detenerMovimiento()
-    alert("Hay colision" + enemigo.nombre)
+    clearInterval(intervalo)
+    console.log('Se detecto una colision')
+    sectionSeleccionarAtaque.style.display = 'flex'
+    sectionVerMapa.style.display = 'none'
+    seleccionarMascotaEnemigo(enemigo)
 }
 
 window.addEventListener('load', IniciarJuego)
