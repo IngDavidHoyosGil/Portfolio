@@ -5,11 +5,11 @@
 > "Here you can see my progress, feel free to review these folders."
 
 ## 📋 Current Projects
-- [ ] Curso de programación básica.
       
 ## 👍 Achieved Goals
 
 **Fundamentals**
+* Curso de programación básica
 * Fundamentos de Ingeniería de Software.
 * Curso de los paradigmas en la historia de la programación.
 * Curso profesional de Git y Github.
