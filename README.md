@@ -5,6 +5,7 @@
 > "Here you can see my progress, feel free to review these folders."
 
 ## 📋 Current Projects
+- [ ] Curso de Buenas Prácticas y Código Limpio en C#
       
 ## 👍 Achieved Goals
 
