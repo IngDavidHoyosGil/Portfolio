@@ -526,8 +526,6 @@ function enviarPosicion(x, y) {
             if (res.ok) {
                 res.json()
                     .then(function ({ enemigos }) {
-                        console.log(enemigos)
-
                         mokeponesEnemigos = enemigos.map(function (enemigo) {
                             let mokeponEnemigo = null
                             const mokeponNombre = enemigo.mokepon.nombre || ""
