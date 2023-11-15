@@ -5,7 +5,6 @@
 > "Here you can see my progress, feel free to review these folders."
 
 ## 📋 Current Projects
-- [ ] Curso de Buenas Prácticas y Código Limpio en C#
       
 ## 👍 Achieved Goals
 
@@ -22,6 +21,7 @@
 * Desafíos de pensamiento lógico.
 * Curso de introducción a la web: Historia y funcionamiento de internet.
 * Curso de Redes Informáticas de Internet.
+* Curso de Buenas Prácticas y Código Limpio en C#
 
 **Business**
 * Curso de Tecnología para Gerentes y Directores.
