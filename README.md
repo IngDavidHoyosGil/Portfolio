@@ -9,7 +9,7 @@
 ## 👍 Achieved Goals
 
 **Fundamentals**
-* Curso de programación básica
+* Curso de programación básica.
 * Fundamentos de Ingeniería de Software.
 * Curso de los paradigmas en la historia de la programación.
 * Curso profesional de Git y Github.
@@ -24,6 +24,7 @@
 * Curso de Buenas Prácticas y Código Limpio en C#
 
 **Business**
+* Curso de Engineering Management.
 * Curso de Tecnología para Gerentes y Directores.
 * Curso de Historia de la Innovación y el Emprendimiento con Diana Uribe.
 * Curso de Slack para Mejorar tu Comunicación Online.
