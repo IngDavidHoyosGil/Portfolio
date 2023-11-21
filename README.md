@@ -32,6 +32,9 @@
 * Curso de Trello.
 * Curso de Trabajo Remoto para Gestionar el Cambio Organizacional.
 
+**Agile Methodologies**
+* Curso Profesional de Scrum.
+
 ## 📈 GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IngDavidHoyosGil&show_icons=true&theme=tokyonight)
 

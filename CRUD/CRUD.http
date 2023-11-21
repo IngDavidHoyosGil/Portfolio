@@ -1,0 +1,31 @@
+# POST https://example.com/comments HTTP/1.1
+# content-type: application/json
+
+GET https://api.escuelajs.co/api/v1/categories/ HTTP/1.1
+content-type: application/json
+
+# POST https://api.escuelajs.co/api/v1/categories HTTP/1.1
+# content-type: application/json
+
+# {
+#     "name": "Gatito",
+#     "image": "https://www.freepik.com/free-vector/lucky-cat-concept-illustration_37452267.htm#query=neko&position=38&from_view=search&track=sph&uuid=f52f7a92-576c-4cc0-b70e-863d789d7e00"
+# }
+
+# POST https://api.escuelajs.co/api/v1/categories HTTP/1.1
+# content-type: application/json
+
+# {
+#     "nameofeverthing": "Gatito",
+#     "image": "https://www.freepik.com/free-vector/lucky-cat-concept-illustration_37452267.htm#query=neko&position=38&from_view=search&track=sph&uuid=f52f7a92-576c-4cc0-b70e-863d789d7e00"
+# }
+
+# PUT  https://api.escuelajs.co/api/v1/categories/20 HTTP/1.1
+# content-type: application/json
+
+# {
+#     "name": "Nekito"
+# }
+
+# DELETE  https://api.escuelajs.co/api/v1/categories/18 HTTP/1.1
+# content-type: application/json
