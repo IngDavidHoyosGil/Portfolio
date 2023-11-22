@@ -35,6 +35,7 @@
 **Agile Methodologies**
 * Curso Profesional de Scrum.
 * Curso de Scrum Master.
+* Curso de Historias de Usuario en Scrum.
 
 ## 📈 GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IngDavidHoyosGil&show_icons=true&theme=tokyonight)
