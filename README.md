@@ -4,7 +4,7 @@
 
 > "Here you can see my progress, feel free to review these folders."
 
-## 📋 Current Projects
+<!-- ## 📋 Current Projects -->
       
 ## 👍 Achieved Goals
 
@@ -34,6 +34,7 @@
 
 **Agile Methodologies**
 * Curso Profesional de Scrum.
+* Curso de Scrum Master.
 
 ## 📈 GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IngDavidHoyosGil&show_icons=true&theme=tokyonight)
