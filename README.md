@@ -38,6 +38,7 @@
 * Curso de Historias de Usuario en Scrum.
 * Curso de Fundamentos de Product Owner.
 * Curso de Herramientas y Frameworks Intermedias para Product Owners.
+* Curso de OKRs.
 
 ## 📈 GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IngDavidHoyosGil&show_icons=true&theme=tokyonight)
