@@ -41,6 +41,7 @@
 * Curso de OKRs.
 * Curso Avanzado de OKRs para Managers.
 * Curso de Agile Delivery Management: Proyectos Enfocados en Resultados.
+* Curso de Gestión de Equipos Ágiles.
 
 ## 📈 GitHub Stats 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=IngDavidHoyosGil&show_icons=true&theme=tokyonight)
