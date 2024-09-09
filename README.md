@@ -26,6 +26,7 @@
 
 **Business**
 * Curso de Power BI.
+* Curso de DAX para Power BI.
 * Curso de Engineering Management.
 * Curso de Tecnología para Gerentes y Directores.
 * Curso de Historia de la Innovación y el Emprendimiento con Diana Uribe.
