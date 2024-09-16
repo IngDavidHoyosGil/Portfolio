@@ -33,6 +33,11 @@
 * Curso de Slack para Mejorar tu Comunicación Online.
 * Curso de Trello.
 * Curso de Trabajo Remoto para Gestionar el Cambio Organizacional.
+* Curso para Mejorar tu Perfil Profesional.
+* Curso de Optimización del Perfil de LinkedIn.
+* Curso para Empezar a Buscar Trabajo en Tecnología
+* Curso para Conseguir Trabajo en Tecnología.
+* Cómo Conseguir Trabajo en Programación.
 
 **Agile Methodologies**
 * Curso Profesional de Scrum.
