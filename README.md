@@ -24,6 +24,10 @@
 * Curso de Buenas Prácticas y Código Limpio en C#
 * Curso de Introducción al Desarrollo Backend.
 
+**Bases de Datos**
+* Curso de Fundamentos de Bases de Datos.
+* Curso de Bases de Datos con SQL.
+
 **Business**
 * Curso de Power BI.
 * Curso de DAX para Power BI.
@@ -38,6 +42,7 @@
 * Curso para Empezar a Buscar Trabajo en Tecnología
 * Curso para Conseguir Trabajo en Tecnología.
 * Cómo Conseguir Trabajo en Programación.
+* Curso para Preparar una Entrevista de Trabajo.
 
 **Agile Methodologies**
 * Curso Profesional de Scrum.
