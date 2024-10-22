@@ -26,7 +26,8 @@
 
 **Bases de Datos**
 * Curso de Fundamentos de Bases de Datos.
-* Curso de Bases de Datos con SQL.
+<!-- * Curso de Bases de Datos con SQL.
+* Curso Práctico de SQL. -->
 
 **Business**
 * Curso de Power BI.
