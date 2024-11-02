@@ -29,6 +29,9 @@
 <!-- * Curso de Bases de Datos con SQL.
 * Curso Práctico de SQL. -->
 
+**Cloud**
+* Curso de Introducción a la Nube
+
 **Business**
 * Curso de Power BI.
 * Curso de DAX para Power BI.
