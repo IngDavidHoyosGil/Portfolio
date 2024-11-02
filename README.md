@@ -30,7 +30,7 @@
 * Curso Práctico de SQL. -->
 
 **Cloud**
-* Curso de Introducción a la Nube
+* Curso de Introducción a la Nube.
 
 **Business**
 * Curso de Power BI.
