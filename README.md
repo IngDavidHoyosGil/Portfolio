@@ -24,7 +24,7 @@
 * Curso de Buenas Prácticas y Código Limpio en C#
 * Curso de Introducción al Desarrollo Backend.
 
-**Bases de Datos**
+**Data Bases**
 * Curso de Fundamentos de Bases de Datos.
 <!-- * Curso de Bases de Datos con SQL.
 * Curso Práctico de SQL. -->
