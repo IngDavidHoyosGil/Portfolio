@@ -26,8 +26,8 @@
 
 **Bases de Datos**
 * Curso de Fundamentos de Bases de Datos.
-<!-- * Curso de Bases de Datos con SQL.
-* Curso Práctico de SQL. -->
+* Curso de Bases de Datos con SQL.
+<!--* Curso Práctico de SQL. -->
 
 **Cloud**
 * Curso de Introducción a la Nube.
