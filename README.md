@@ -24,6 +24,12 @@
 * Curso de Buenas Prácticas y Código Limpio en C#
 * Curso de Introducción al Desarrollo Backend.
 
+**Python**
+<!--* Curso de Python.-->
+* Curso de Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks y Anaconda
+<!--* Curso de Manipulación y Transformación de Datos con Pandas y NumPy. -->
+
+
 **Data Bases**
 * Curso de Fundamentos de Bases de Datos.
 * Curso de Bases de Datos con SQL.
@@ -31,6 +37,9 @@
 
 **Cloud**
 * Curso de Introducción a la Nube.
+
+**ETL & Data Warehousing**
+<!--* Curso de Fundamentos de ETL con Python y Pentaho. -->
 
 **Business**
 * Curso de Power BI.
