@@ -27,13 +27,13 @@
 **Python**
 <!--* Curso de Python.-->
 * Curso de Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks y Anaconda
-<!--* Curso de Manipulación y Transformación de Datos con Pandas y NumPy. -->
-
+* Curso de Manipulación y Transformación de Datos con Pandas y NumPy.
 
 **Data Bases**
 * Curso de Fundamentos de Bases de Datos.
 * Curso de Bases de Datos con SQL.
-<!--* Curso Práctico de SQL. -->
+<!--* Curso Práctico de SQL. 
+* Curso de Fundamentos de Spark para Big Data-->
 
 **Cloud**
 * Curso de Introducción a la Nube.
