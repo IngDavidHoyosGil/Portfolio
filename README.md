@@ -24,9 +24,13 @@
 * Curso de Redes Informáticas de Internet.
 * Curso de Buenas Prácticas y Código Limpio en C#
 * Curso de Introducción al Desarrollo Backend.
-<!--* Guía para Empezar una Carrera en Data Science e Inteligencia Artificial.-->
+* Guía para Empezar una Carrera en Data Science e Inteligencia Artificial.
+<!--* Curso de Ética y Manejo de Datos para Data Science e Inteligencia Artificial.
+* Curso de Introducción a Inteligencia Artificial.
+* Guía de Adopción a la Inteligencia Artificial.
+* Curso de ChatGPT.
+-->
 * Curso de Fundamentos de Ingeniería de Datos.
-
 
 **Python**
 <!--* Curso de Python.
@@ -79,7 +83,11 @@
 **Business**
 * Curso de Power BI.
 * Curso de DAX para Power BI.
-<!--* Curso de Principios de Visualización de Datos para Business Intelligence. -->
+<!--* Curso de Excel Básico: Tablas y Fórmulas para la Gestión de Datos.
+* Curso de Estadística y Probabilidad
+* Curso de Principios de Visualización de Datos para Business Intelligence. 
+* Curso de Visualización de Datos para BI
+* Curso de Análisis de Negocios para Ciencia de Datos-->
 * Curso de Engineering Management.
 * Curso de Tecnología para Gerentes y Directores.
 * Curso de Historia de la Innovación y el Emprendimiento con Diana Uribe.
