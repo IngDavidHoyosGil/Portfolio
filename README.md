@@ -12,6 +12,7 @@
 * Curso de programación básica.
 * Fundamentos de Ingeniería de Software.
 * Curso de los paradigmas en la historia de la programación.
+<!--* Curso de Git y GitHub. -->
 * Curso profesional de Git y Github.
 * Curso de configuración de entorno de desarrollo en Windows.
 * Curso básico de computadoras e informática.
@@ -23,27 +24,62 @@
 * Curso de Redes Informáticas de Internet.
 * Curso de Buenas Prácticas y Código Limpio en C#
 * Curso de Introducción al Desarrollo Backend.
+<!--* Guía para Empezar una Carrera en Data Science e Inteligencia Artificial.-->
+* Curso de Fundamentos de Ingeniería de Datos.
+
 
 **Python**
-<!--* Curso de Python.-->
+<!--* Curso de Python.
+* Curso de Python: Comprehensions, Funciones y Manejo de Errores.
+* Curso de Python: PIP y Entornos Virtuales.
+* Curso de Python para Ciencia de Datos.
+* Curso de Análisis Exploratorio de Datos.
+* Curso de Configuración Profesional de Entorno de Trabajo para Ciencia de Datos.
+* Curso de Manejo de Datos Faltantes: Detección y Exploración.
+* Curso de Manejo de Datos Faltantes: Imputación.-->
 * Curso de Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks y Anaconda
 * Curso de Manipulación y Transformación de Datos con Pandas y NumPy.
 
 **Data Bases**
 * Curso de Fundamentos de Bases de Datos.
 * Curso de Bases de Datos con SQL.
-<!--* Curso Práctico de SQL. 
-* Curso de Fundamentos de Spark para Big Data-->
+<!--* Curso de SQL y MySQL.
+* Curso Práctico de SQL. 
+* Curso de Optimización de Bases de Datos en SQL Server.
+* Curso de Fundamentos de Spark para Big Data.
+* Curso de Matemáticas para Data Science: Estadística Descriptiva.-->
 
 **Cloud**
 * Curso de Introducción a la Nube.
+<!--*Curso de Introducción a AWS: Fundamentos de Cloud Computing.
+* Curso AWS Cloud Practitioner Certification
+* Curso de Introducción a AWS: Cómputo, Almacenamiento y Bases de Datos.
+* Curso de Introducción a AWS: Redes, Gobernanza y Machine Learning.
+* Curso Práctico de AWS: Roles y Seguridad con IAM.
+* Curso Práctico de AWS: Cómputo con EC2.
+* Curso Práctico de Storage en AWS.
+* Curso Práctico de Bases de Datos en AWS.
+* Curso de Big Data en AWS.
+* Curso de Serverless Framework en AWS.
+* Curso Avanzado de Serverless Framework en AWS.
+* Curso Práctico de AWS Cloud.
+* Curso Práctico de Cloud Computing con AWS.
+* Curso de Amazon DynamoDB.
+* Curso de Infraestructura Como Código en AWS
+ -->
 
 **ETL & Data Warehousing**
-<!--* Curso de Fundamentos de ETL con Python y Pentaho. -->
+<!--* Curso de Docker: Fundamentos.
+* Curso de Fundamentos de ETL con Python y Pentaho. 
+* Curso de Data Warehousing y Modelado OLAP.
+* Curso de Fundamentos de Apache Airflow.
+* Curso de AWS Redshift para Manejo de Big Data.
+* Curso de Databricks: Arquitectura Delta Lake.-->
 
 **Business**
 * Curso de Power BI.
 * Curso de DAX para Power BI.
+<!--* Curso de Principios de Visualización de Datos para Business Intelligence. -->
 * Curso de Engineering Management.
 * Curso de Tecnología para Gerentes y Directores.
 * Curso de Historia de la Innovación y el Emprendimiento con Diana Uribe.
@@ -56,6 +92,7 @@
 * Curso para Conseguir Trabajo en Tecnología.
 * Cómo Conseguir Trabajo en Programación.
 * Curso para Preparar una Entrevista de Trabajo.
+<!--* Curso de Oratoria para Hablar en Público. -->
 
 **Agile Methodologies**
 * Curso Profesional de Scrum.
