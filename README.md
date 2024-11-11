@@ -25,8 +25,8 @@
 * Curso de Buenas Prácticas y Código Limpio en C#
 * Curso de Introducción al Desarrollo Backend.
 * Guía para Empezar una Carrera en Data Science e Inteligencia Artificial.
-<!--* Curso de Ética y Manejo de Datos para Data Science e Inteligencia Artificial.
-* Curso de Introducción a Inteligencia Artificial.
+* Curso de Ética y Manejo de Datos para Data Science e Inteligencia Artificial.
+<!--* Curso de Introducción a Inteligencia Artificial.
 * Guía de Adopción a la Inteligencia Artificial.
 * Curso de ChatGPT.
 -->
