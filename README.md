@@ -27,9 +27,8 @@
 * Guía para Empezar una Carrera en Data Science e Inteligencia Artificial.
 * Curso de Ética y Manejo de Datos para Data Science e Inteligencia Artificial.
 <!--* Curso de Introducción a Inteligencia Artificial.
-* Guía de Adopción a la Inteligencia Artificial.
+* Guía de Adopción a la Inteligencia Artificial.-->
 * Curso de ChatGPT.
--->
 * Curso de Fundamentos de Ingeniería de Datos.
 
 **Python**
@@ -43,6 +42,8 @@
 * Curso de Manejo de Datos Faltantes: Imputación.-->
 * Curso de Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks y Anaconda
 * Curso de Manipulación y Transformación de Datos con Pandas y NumPy.
+<!--* Curso de Estadística Computacional con Python.
+* Curso de Funciones Matemáticas para Data Science e Inteligencia Artificial -->
 
 **Data Bases**
 * Curso de Fundamentos de Bases de Datos.
