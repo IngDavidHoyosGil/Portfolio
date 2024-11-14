@@ -27,7 +27,7 @@
 * Guía para Empezar una Carrera en Data Science e Inteligencia Artificial.
 * Curso de Ética y Manejo de Datos para Data Science e Inteligencia Artificial.
 * Curso de Introducción a Inteligencia Artificial.
-<!--* Guía de Adopción a la Inteligencia Artificial.-->
+* Guía de Adopción a la Inteligencia Artificial.
 * Curso de ChatGPT.
 * Curso de Fundamentos de Ingeniería de Datos.
 
@@ -102,6 +102,7 @@
 * Cómo Conseguir Trabajo en Programación.
 * Curso para Preparar una Entrevista de Trabajo.
 <!--* Curso de Oratoria para Hablar en Público. -->
+* Curso para Entender tus Emociones Básicas.
 
 **Agile Methodologies**
 * Curso Profesional de Scrum.
