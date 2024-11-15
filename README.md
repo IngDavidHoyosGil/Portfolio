@@ -101,7 +101,8 @@
 * Curso para Conseguir Trabajo en Tecnología.
 * Cómo Conseguir Trabajo en Programación.
 * Curso para Preparar una Entrevista de Trabajo.
-<!--* Curso de Oratoria para Hablar en Público. -->
+* Curso de Oratoria para Hablar en Público. 
+<!--* Curso de Marca Personal.-->
 * Curso para Entender tus Emociones Básicas.
 
 **Agile Methodologies**
