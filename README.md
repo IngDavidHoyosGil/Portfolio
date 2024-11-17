@@ -34,9 +34,9 @@
 **Python**
 <!--* Curso de Python.
 * Curso de Python: Comprehensions, Funciones y Manejo de Errores.
-* Curso de Python: PIP y Entornos Virtuales.
 * Curso de Python para Ciencia de Datos.
 * Curso de Análisis Exploratorio de Datos.
+* Curso de Python: PIP y Entornos Virtuales.
 * Curso de Configuración Profesional de Entorno de Trabajo para Ciencia de Datos.
 * Curso de Manejo de Datos Faltantes: Detección y Exploración.
 * Curso de Manejo de Datos Faltantes: Imputación.-->
@@ -50,20 +50,18 @@
 * Curso de Bases de Datos con SQL.
 <!--* Curso de SQL y MySQL.
 * Curso Práctico de SQL. 
-* Curso de Optimización de Bases de Datos en SQL Server.
-* Curso de Fundamentos de Spark para Big Data.
-* Curso de Matemáticas para Data Science: Estadística Descriptiva.-->
+* Curso de Optimización de Bases de Datos en SQL Server.-->
 
 **Cloud**
 * Curso de Introducción a la Nube.
 <!--*Curso de Introducción a AWS: Fundamentos de Cloud Computing.
-* Curso AWS Cloud Practitioner Certification
 * Curso de Introducción a AWS: Cómputo, Almacenamiento y Bases de Datos.
-* Curso de Introducción a AWS: Redes, Gobernanza y Machine Learning.
 * Curso Práctico de AWS: Roles y Seguridad con IAM.
 * Curso Práctico de AWS: Cómputo con EC2.
 * Curso Práctico de Storage en AWS.
 * Curso Práctico de Bases de Datos en AWS.
+* Curso AWS Cloud Practitioner Certification.
+* Curso de Introducción a AWS: Redes, Gobernanza y Machine Learning.
 * Curso de Big Data en AWS.
 * Curso de Serverless Framework en AWS.
 * Curso Avanzado de Serverless Framework en AWS.
@@ -74,12 +72,13 @@
  -->
 
 **ETL & Data Warehousing**
-<!--* Curso de Docker: Fundamentos.
-* Curso de Fundamentos de ETL con Python y Pentaho. 
+<!--* Curso de Fundamentos de ETL con Python y Pentaho. 
 * Curso de Data Warehousing y Modelado OLAP.
+* Curso de Fundamentos de Spark para Big Data.
 * Curso de Fundamentos de Apache Airflow.
 * Curso de AWS Redshift para Manejo de Big Data.
-* Curso de Databricks: Arquitectura Delta Lake.-->
+* Curso de Databricks: Arquitectura Delta Lake.
+* Curso de Docker: Fundamentos.-->
 
 **Business**
 * Curso de Power BI.
@@ -88,7 +87,8 @@
 * Curso de Estadística y Probabilidad
 * Curso de Principios de Visualización de Datos para Business Intelligence. 
 * Curso de Visualización de Datos para BI
-* Curso de Análisis de Negocios para Ciencia de Datos-->
+* Curso de Análisis de Negocios para Ciencia de Datos
+* Curso de Matemáticas para Data Science: Estadística Descriptiva.-->
 * Curso de Engineering Management.
 * Curso de Tecnología para Gerentes y Directores.
 * Curso de Historia de la Innovación y el Emprendimiento con Diana Uribe.
@@ -102,7 +102,7 @@
 * Cómo Conseguir Trabajo en Programación.
 * Curso para Preparar una Entrevista de Trabajo.
 * Curso de Oratoria para Hablar en Público. 
-<!--* Curso de Marca Personal.-->
+* Curso de Marca Personal.
 * Curso para Entender tus Emociones Básicas.
 
 **Agile Methodologies**
