@@ -48,8 +48,8 @@
 **Data Bases**
 * Curso de Fundamentos de Bases de Datos.
 * Curso de Bases de Datos con SQL.
-<!--* Curso de SQL y MySQL.
-* Curso Práctico de SQL. 
+* Curso de SQL y MySQL.
+<!--* Curso Práctico de SQL. 
 * Curso de Optimización de Bases de Datos en SQL Server.-->
 
 **Cloud**
