@@ -1,0 +1,8 @@
+Respaldo con datos
+
+mysqldump -u root -p pruebaplatzi
+
+
+Respaldo sin datos
+
+mysqldump -u root -p -d pruebaplatzi > esquema.sql
