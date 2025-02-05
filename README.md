@@ -22,7 +22,7 @@
 * Desafíos de pensamiento lógico.
 * Curso de introducción a la web: Historia y funcionamiento de internet.
 * Curso de Redes Informáticas de Internet.
-* Curso de Buenas Prácticas y Código Limpio en C#
+* Curso de Buenas Prácticas y Código Limpio en C#.
 * Curso de Introducción al Desarrollo Backend.
 * Guía para Empezar una Carrera en Data Science e Inteligencia Artificial.
 * Curso de Ética y Manejo de Datos para Data Science e Inteligencia Artificial.
@@ -40,21 +40,23 @@
 * Curso de Configuración Profesional de Entorno de Trabajo para Ciencia de Datos.
 * Curso de Manejo de Datos Faltantes: Detección y Exploración.
 * Curso de Manejo de Datos Faltantes: Imputación.-->
-* Curso de Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks y Anaconda
+* Curso de Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks y Anaconda.
 * Curso de Manipulación y Transformación de Datos con Pandas y NumPy.
 <!--* Curso de Estadística Computacional con Python.
-* Curso de Funciones Matemáticas para Data Science e Inteligencia Artificial -->
+* Curso de Funciones Matemáticas para Data Science e Inteligencia Artificial. -->
 
 **Data Bases**
 * Curso de Fundamentos de Bases de Datos.
 * Curso de Bases de Datos con SQL.
 * Curso de SQL y MySQL.
 <!--* Curso Práctico de SQL. 
-* Curso de Optimización de Bases de Datos en SQL Server.-->
+* Curso de Optimización de Bases de Datos en SQL Server.
+* Curso de PostgreSQL.
+* Curso de PostgreSQL Aplicado a Ciencia de Datos.-->
 
 **Cloud**
 * Curso de Introducción a la Nube.
-<!--*Curso de Introducción a AWS: Fundamentos de Cloud Computing.
+<!--* Curso de Introducción a AWS: Fundamentos de Cloud Computing.
 * Curso de Introducción a AWS: Cómputo, Almacenamiento y Bases de Datos.
 * Curso Práctico de AWS: Roles y Seguridad con IAM.
 * Curso Práctico de AWS: Cómputo con EC2.
@@ -68,7 +70,7 @@
 * Curso Práctico de AWS Cloud.
 * Curso Práctico de Cloud Computing con AWS.
 * Curso de Amazon DynamoDB.
-* Curso de Infraestructura Como Código en AWS
+* Curso de Infraestructura Como Código en AWS.
  -->
 
 **ETL & Data Warehousing**
@@ -84,10 +86,10 @@
 * Curso de Power BI.
 * Curso de DAX para Power BI.
 <!--* Curso de Excel Básico: Tablas y Fórmulas para la Gestión de Datos.
-* Curso de Estadística y Probabilidad
+* Curso de Estadística y Probabilidad.
 * Curso de Principios de Visualización de Datos para Business Intelligence. 
-* Curso de Visualización de Datos para BI
-* Curso de Análisis de Negocios para Ciencia de Datos
+* Curso de Visualización de Datos para BI.
+* Curso de Análisis de Negocios para Ciencia de Datos.
 * Curso de Matemáticas para Data Science: Estadística Descriptiva.-->
 * Curso de Engineering Management.
 * Curso de Tecnología para Gerentes y Directores.
@@ -97,7 +99,7 @@
 * Curso de Trabajo Remoto para Gestionar el Cambio Organizacional.
 * Curso para Mejorar tu Perfil Profesional.
 * Curso de Optimización del Perfil de LinkedIn.
-* Curso para Empezar a Buscar Trabajo en Tecnología
+* Curso para Empezar a Buscar Trabajo en Tecnología.
 * Curso para Conseguir Trabajo en Tecnología.
 * Cómo Conseguir Trabajo en Programación.
 * Curso para Preparar una Entrevista de Trabajo.
