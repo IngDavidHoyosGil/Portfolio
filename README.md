@@ -30,9 +30,11 @@
 * Guía de Adopción a la Inteligencia Artificial.
 * Curso de ChatGPT.
 * Curso de Fundamentos de Ingeniería de Datos.
+<!--* Curso de Power Apps y Power Automate-->
 
 **Python**
 <!--* Curso de Python.
+* 21 Días de Python.
 * Curso de Python: Comprehensions, Funciones y Manejo de Errores.
 * Curso de Python para Ciencia de Datos.
 * Curso de Análisis Exploratorio de Datos.
@@ -41,8 +43,12 @@
 * Curso de Manejo de Datos Faltantes: Detección y Exploración.
 * Curso de Manejo de Datos Faltantes: Imputación.-->
 * Curso de Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks y Anaconda.
+<!--* Curso de Entornos Virtuales con Anaconda y Jupyter. -->
 * Curso de Manipulación y Transformación de Datos con Pandas y NumPy.
-<!--* Curso de Estadística Computacional con Python.
+<!--* Curso Práctico de Python: Creación de un CRUD.
+* Curso de Introducción a los Patrones de Diseño de Software.
+* Curso de Patrones de Diseño y SOLID en Python.
+* Curso de Estadística Computacional con Python.
 * Curso de Funciones Matemáticas para Data Science e Inteligencia Artificial. -->
 
 **Data Bases**
@@ -71,11 +77,14 @@
 * Curso Práctico de Cloud Computing con AWS.
 * Curso de Amazon DynamoDB.
 * Curso de Infraestructura Como Código en AWS.
+* Curso de AWS Certified Solutions Architect Associate
  -->
 
 **ETL & Data Warehousing**
-<!--* Curso de Fundamentos de ETL con Python y Pentaho. 
-* Curso de Data Warehousing y Modelado OLAP.
+<!--* Curso de Fundamentos de ETL con Python y Pentaho. Deprecated -->
+* Curso de ETL e ingesta de datos con Python
+<!--* Curso de Data Warehousing y Modelado OLAP. Deprecated
+* Curso de Data Warehousing y Data Lakes
 * Curso de Fundamentos de Spark para Big Data.
 * Curso de Fundamentos de Apache Airflow.
 * Curso de AWS Redshift para Manejo de Big Data.
@@ -85,7 +94,8 @@
 **Business**
 * Curso de Power BI.
 * Curso de DAX para Power BI.
-<!--* Curso de Excel Básico: Tablas y Fórmulas para la Gestión de Datos.
+<!--* Curso de Matemáticas para Data Science: Probabilidad.
+* Curso de Excel Básico: Tablas y Fórmulas para la Gestión de Datos.
 * Curso de Estadística y Probabilidad.
 * Curso de Principios de Visualización de Datos para Business Intelligence. 
 * Curso de Visualización de Datos para BI.
