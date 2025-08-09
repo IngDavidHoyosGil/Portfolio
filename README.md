@@ -83,9 +83,9 @@
 **ETL & Data Warehousing**
 <!--* Curso de Fundamentos de ETL con Python y Pentaho. Deprecated -->
 * Curso de ETL e ingesta de datos con Python
-<!--* Curso de Data Warehousing y Modelado OLAP. Deprecated
-* Curso de Data Warehousing y Data Lakes
-* Curso de Fundamentos de Spark para Big Data.
+<!--* Curso de Data Warehousing y Modelado OLAP. Deprecated-->
+* Curso de Data Warehousing y Data Lakes.
+<!--* Curso de Fundamentos de Spark para Big Data.
 * Curso de Fundamentos de Apache Airflow.
 * Curso de AWS Redshift para Manejo de Big Data.
 * Curso de Databricks: Arquitectura Delta Lake.
