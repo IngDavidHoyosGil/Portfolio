@@ -11,7 +11,7 @@
 **Fundamentals**
 * Curso de programación básica.
 * Fundamentos de Ingeniería de Software.
-* Curso de los paradigmas en la historia de la programación.
+* Curso de los paradigmas en la historia de la programación. 
 <!--* Curso de Git y GitHub. -->
 * Curso profesional de Git y Github.
 * Curso de configuración de entorno de desarrollo en Windows.
@@ -30,7 +30,7 @@
 * Guía de Adopción a la Inteligencia Artificial.
 * Curso de ChatGPT.
 * Curso de Fundamentos de Ingeniería de Datos.
-<!--* Curso de Power Apps y Power Automate-->
+* Curso de Power Apps y Power Automate
 
 **Python**
 <!--* Curso de Python.
@@ -81,9 +81,7 @@
  -->
 
 **ETL & Data Warehousing**
-<!--* Curso de Fundamentos de ETL con Python y Pentaho. Deprecated -->
 * Curso de ETL e ingesta de datos con Python
-<!--* Curso de Data Warehousing y Modelado OLAP. Deprecated-->
 * Curso de Data Warehousing y Data Lakes.
 <!--* Curso de Fundamentos de Spark para Big Data.
 * Curso de Fundamentos de Apache Airflow.
