@@ -30,7 +30,7 @@
 * Guía de Adopción a la Inteligencia Artificial.
 * Curso de ChatGPT.
 * Curso de Fundamentos de Ingeniería de Datos.
-* Curso de Power Apps y Power Automate
+* Curso de Power Apps y Power Automate.
 
 **Python**
 <!--* Curso de Python.
@@ -83,8 +83,8 @@
 **ETL & Data Warehousing**
 * Curso de ETL e ingesta de datos con Python
 * Curso de Data Warehousing y Data Lakes.
-<!--* Curso de Fundamentos de Spark para Big Data.
-* Curso de Fundamentos de Apache Airflow.
+* Curso de Fundamentos de Spark para Big Data.
+<!--* Curso de Fundamentos de Apache Airflow.
 * Curso de AWS Redshift para Manejo de Big Data.
 * Curso de Databricks: Arquitectura Delta Lake.
 * Curso de Docker: Fundamentos.-->
